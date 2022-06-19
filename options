@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/andre/.m2/repository/javax/mail/javax.mail-api/1.6.0/javax.mail-api-1.6.0.jar;C:/Users/andre/.m2/repository/org/jdom/jdom2/2.0.6.1/jdom2-2.0.6.1.jar;C:/Users/andre/.m2/repository/org/jfree/jfreechart/1.5.3/jfreechart-1.5.3.jar;C:/Users/andre/.m2/repository/org/jfree/jcommon/1.0.24/jcommon-1.0.24.jar;C:/Users/andre/.m2/repository/org/jfree/org.jfree.chart3d/2.1.0/org.jfree.chart3d-2.1.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/andre/OneDrive/Documentos/GitHub/PY2-POO/IIProyectoPOO/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/andre/OneDrive/Documentos/GitHub/PY2-POO/IIProyectoPOO/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'IIProyectoPOO 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'IIProyectoPOO 1.0-SNAPSHOT API'
